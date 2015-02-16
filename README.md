@@ -1,7 +1,7 @@
 wdjs_fw
 ==========
 
-This repository is a test framework built to demonstrate WebDriverJS with the help of MIFOSX Application
+This repository is a test framework built to demonstrate WebDriverJS
 
 How to install
 ==============
@@ -43,7 +43,7 @@ The repo has two types of specs.
 			
 2. Specs that use Protractor.
 
-	These specs are present in [ptr_spec](ptr_spec) directory.
+	These specs are present in [ptr_spec](ptr_spec) and [ncrypted_spec](ncrypted_spec) directories.
  
    To run the tests, 
     * Open [conf2.js](spec/onfig/DriverConfig.js) and
